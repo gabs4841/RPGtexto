@@ -1,0 +1,31 @@
+I:\RPG\RPG\bin\Debug\RPG.exe
+I:\RPG\RPG\bin\Debug\RPG.pdb
+I:\RPG\RPG\obj\x86\Debug\RPG.exe
+I:\RPG\RPG\obj\x86\Debug\RPG.pdb
+G:\aulas\2018 Débora\RPG terror\RPG\RPG\obj\x86\Debug\RPG.exe
+G:\aulas\2018 Débora\RPG terror\RPG\RPG\obj\x86\Debug\RPG.pdb
+G:\aulas\2018 Débora\RPG terror\RPG\RPG\bin\Debug\RPG.exe
+G:\aulas\2018 Débora\RPG terror\RPG\RPG\bin\Debug\RPG.pdb
+D:\aulas\2018 Débora\RPG terror\RPG\RPG\obj\x86\Debug\RPG.exe
+D:\aulas\2018 Débora\RPG terror\RPG\RPG\obj\x86\Debug\RPG.pdb
+D:\aulas\2018 Débora\RPG terror\RPG\RPG\bin\Debug\RPG.exe
+D:\aulas\2018 Débora\RPG terror\RPG\RPG\bin\Debug\RPG.pdb
+C:\Users\Luciana\Desktop\RPG\obj\x86\Debug\RPG.exe
+C:\Users\Luciana\Desktop\RPG\obj\x86\Debug\RPG.pdb
+C:\Users\Luciana\Desktop\RPG\bin\Debug\RPG.exe
+C:\Users\Luciana\Desktop\RPG\bin\Debug\RPG.pdb
+C:\Users\biard\Desktop\rpg terror\1\Bianca batata\RPG\obj\x86\Debug\RPG.exe
+C:\Users\biard\Desktop\rpg terror\1\Bianca batata\RPG\obj\x86\Debug\RPG.pdb
+C:\Users\biard\Desktop\rpg terror\1\Bianca batata\RPG\bin\Debug\RPG.exe
+C:\Users\biard\Desktop\rpg terror\1\Bianca batata\RPG\bin\Debug\RPG.pdb
+C:\Users\Luciana\Desktop\RPG\obj\x86\Debug\RPG.csprojResolveAssemblyReference.cache
+C:\Users\biard\Desktop\rpg terror\2\RPG\obj\x86\Debug\RPG.exe
+C:\Users\biard\Desktop\rpg terror\2\RPG\obj\x86\Debug\RPG.pdb
+C:\Users\biard\Desktop\rpg terror\2\RPG\bin\Debug\RPG.exe
+C:\Users\biard\Desktop\rpg terror\2\RPG\bin\Debug\RPG.pdb
+C:\Users\biard\Desktop\rpg terror\2\RPG\obj\x86\Debug\RPG.csprojResolveAssemblyReference.cache
+I:\aulas\2018 Débora\RPG terror\RPG\2\RPG\obj\x86\Debug\RPG.exe
+I:\aulas\2018 Débora\RPG terror\RPG\2\RPG\obj\x86\Debug\RPG.pdb
+I:\aulas\2018 Débora\RPG terror\RPG\2\RPG\bin\Debug\RPG.exe
+I:\aulas\2018 Débora\RPG terror\RPG\2\RPG\bin\Debug\RPG.pdb
+I:\aulas\2018 Débora\RPG terror\RPG\2\RPG\obj\x86\Debug\RPG.csprojResolveAssemblyReference.cache
