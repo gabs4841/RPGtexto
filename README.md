@@ -4,7 +4,7 @@ Jogo de texto estilo rpg de terror feito no cmd onde o jogador é convidado por 
 
 # Como Jogar?
 
-Vá em "![image](https://github.com/gabs4841/RPGtexto/assets/74026100/d0d4dc87-b482-4ede-8787-79173f1656e2)" e "Download ZIP", Após extrarir o conteudo, basta abrir o arquivo "RPG.Exe" que está no caminho "2\RPG\bin\Debug"
+Vá em "<> Code" e "Download ZIP" ![image](https://github.com/gabs4841/RPGtexto/assets/74026100/21b521f6-4aa2-40d5-ae2d-66c7d2a99fe5), Após extrarir o conteudo, basta abrir o arquivo "RPG.Exe" que está no caminho "2\RPG\bin\Debug"
 
 # Imagens do Jogo:
 ![image](https://github.com/gabs4841/RPGtexto/assets/74026100/688b9603-81ec-4a38-8f02-0e233226775a)
