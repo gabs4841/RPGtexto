@@ -10,4 +10,4 @@ Vá em "<> Code" e "Download ZIP", Após extrair o conteudo, basta abrir o arqui
 ![image](https://github.com/gabs4841/RPGtexto/assets/74026100/688b9603-81ec-4a38-8f02-0e233226775a)
 
 # Créditos:
-[Gabriel Medina da Assunção](https://github.com/gabs4841)
+Esse programa foi criado por [Gabriel Medina da Assunção](https://github.com/gabs4841)
